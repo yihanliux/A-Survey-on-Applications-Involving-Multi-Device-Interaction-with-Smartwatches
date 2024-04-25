@@ -131,13 +131,13 @@
 	
 		// 更新筛选状态的显示
 		if (!existFilters()) {
-			d3.select(".elastic-list-filters").select("p").text("No filters applied");
+			d3.select(".elastic-list-filters").select("p")//.text("No filters applied");
 		} else {
 			var values = [];
 			for (var i = 0; i < dimensionsArray.length; i++) {
 				values = values.concat(Array.from(dimensions[dimensionsArray[i]].filters));
 			}
-			d3.select(".elastic-list-filters").select("p").text("Filtering by: " + values.join(', '));
+			d3.select(".elastic-list-filters").select("p")//.text("Filtering by: " + values.join(', '));
 		}
 	
 		// 调用更新数据显示的函数
@@ -306,7 +306,7 @@
 			.attr("class", "elastic-list-filters")
 			.style("height", header_height)
 			.append("p")
-				.text("No filters applied");
+				//.text("No filters applied");
 
 		d3.select("#results")
 			.style("width", width + "px");
