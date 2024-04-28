@@ -2,16 +2,16 @@ Title,PublicationYear,PublicationVenue,PairedDevice,Role,Application,HTML
 AcousticType: Smartwatch-Enabled Cross-Device Text Entry Method Using Keyboard Acoustics. https://dl.acm.org/doi/abs/10.1145/3491101.3519691, 2022, CHI, Large Display, Input Device, Smart Home Management
 Significant Otter: Understanding the Role of Biosignals in Communication. https://dl.acm.org/doi/abs/10.1145/3411764.3445200, 2021, CHI, Smartphone, Input Device & Notification Device, Communication
 WATouCH: Enabling Direct Input on Non-touchscreen Using Smartwatch’s Photoplethysmogram and IMU Sensor Fusion. https://dl.acm.org/doi/abs/10.1145/3313831.3376198, 2020, CHI, Large Display, Input Device, Smart Home Management
-Watch+Strap: Extending Smartwatches with Interactive StrapDisplays. https://dl.acm.org/doi/abs/10.1145/3313831.3376199, 2020, CHI, Strap, Central device, \
-Doppio: A Reconfigurable Dual-Face Smartwatch for Tangible Interaction. https://dl.acm.org/doi/10.1145/2858036.2858256, 2016, CHI, Extra Screen, Central device, \
+Watch+Strap: Extending Smartwatches with Interactive StrapDisplays. https://dl.acm.org/doi/abs/10.1145/3313831.3376199, 2020, CHI, Strap, Central device, No Application Context
+Doppio: A Reconfigurable Dual-Face Smartwatch for Tangible Interaction. https://dl.acm.org/doi/10.1145/2858036.2858256, 2016, CHI, Extra Screen, Central device, No Application Context
 WristOrigami: Exploring Foldable Design for Multi-Display Smartwatch. https://dl.acm.org/doi/abs/10.1145/3196709.3196713, 2018, DIS, Extra Screen, Central device, Information Viewing
-Watchit: simple gestures for interacting with a watchstrap. https://dl.acm.org/doi/10.1145/2470654.2466192, 2013, CHI, Strap, Central device, \
+Watchit: simple gestures for interacting with a watchstrap. https://dl.acm.org/doi/10.1145/2470654.2466192, 2013, CHI, Strap, Central device, No Application Context
 Watch my Painting: The Back of the Hand as a Drawing Space for Smartwatches. https://dl.acm.org/doi/abs/10.1145/3334480.3383040, 2020, CHI, Stylus, Data Collector & Central device, Drawing
 WatchPen: Using Cross-Device Interaction Concepts to Augment Pen-Based Interaction. https://dl.acm.org/doi/abs/10.1145/3338286.3340122, 2019, MobileHCI, Tablet & Stylus, Extended Screen & Input Device, Drawing
 CoolCraig: A Smart Watch/Phone Application Supporting Co-Regulation of Children with ADHD. https://dl.acm.org/doi/abs/10.1145/3334480.3382991, 2020, CHI ,Smartphone,Input Device & Notification Device,Health and Fitness
 HomeSound: An Iterative Field Deployment of an In-Home Sound Awareness System for Deaf or Hard of Hearing Users. https://dl.acm.org/doi/abs/10.1145/3313831.3376758, 2020, CHI,PC,Notification Device,Health and Fitness
 Portalware: A Smartphone-Wearable Dual-Display System for Expanding the Free-Hand Interaction Region in Augmented Reality. https://dl.acm.org/doi/abs/10.1145/3334480.3383079, 2020, CHI,Smartphone,Extended Screen,Drawing
-Pointing at a Distance with Everyday Smart Devices. https://dl.acm.org/doi/10.1145/3173574.3173747, 2018, CHI,Large Display,Input Device,\
+Pointing at a Distance with Everyday Smart Devices. https://dl.acm.org/doi/10.1145/3173574.3173747, 2018, CHI,Large Display,Input Device, No Application Context
 When David Meets Goliath: Combining Smartwatches with a Large Vertical Display for Visual Data Exploration. https://dl.acm.org/doi/10.1145/3173574.3173593, 2018, CHI,Large Display,Extended Screen & Input Device,Information Exploration in Public Space
 FieldGuide: Smartwatches in a Multi-display Museum Environment. https://dl.acm.org/doi/abs/10.1145/3170427.3188694, 2018, CHI,Large Display,Extended Screen,Information Exploration in Public Space
 Toward Supporting Communication for People with Aphasia: The In-Bed Scenario. https://dl.acm.org/doi/abs/10.1145/3528575.3551431, 2022, ISS, Smartphone,Input Device,Health and Fitness
@@ -25,7 +25,7 @@ Assisting Food Journaling with Automatic Eating Detection. https://dl.acm.org/do
 Vi-Bros: Tactile Feedback for Indoor Navigation with a Smartphone and a Smartwatch. https://dl.acm.org/doi/10.1145/2702613.2732811,2015,CHI,Smartphone,Notification Device,Map and Navigation
 Harmonious Haptics: Enhanced Tactile Feedback Using a Mobile and a Wearable Device. https://dl.acm.org/doi/10.1145/2702613.2725428,2015,CHI,Smartphone,Perceptual Enhancer,Sensations Enhancement
 Duet: exploring joint interactions on a smart phone and a smart watch. https://dl.acm.org/doi/abs/10.1145/2556288.2556955,2014,CHI,Smartphone,Data Collector & Notification Device& Input Device&Extended Screen,Map and Navigation& Information Viewing
-Typing on a Smartwatch for Smart Glasses. https://dl.acm.org/doi/10.1145/3132272.3134136,2017,ISS,Smart Glasses,Data Collector,\
+Typing on a Smartwatch for Smart Glasses. https://dl.acm.org/doi/10.1145/3132272.3134136,2017,ISS,Smart Glasses,Data Collector, No Application Context
 Smart Home Control using Motion Matching and Smart Watches. https://dl.acm.org/doi/10.1145/3132272.3132283,2017,ISS,Smartphone,Input Device,Smart Home Management
 CurationSpace: Cross-Device Content Curation Using Instrumental Interaction. https://dl.acm.org/doi/10.1145/2992154.2992175 ,2016,ISS,Large Display,Extended Screen,Information Exploration in Public Space
 WhichHand: automatic recognition of a smartphone's position in the hand using a smartwatch. https://dl.acm.org/doi/10.1145/2957265.2961857 ,2016,MobileHCI,Smartphone,Data Collector,Context-Aware System Design
@@ -41,13 +41,13 @@ PulseCam: Biophysically Driven Life Logging. https://dl.acm.org/doi/10.1145/2786
 Mixed-reality shopping system using HMD and smartwatch. https://dl.acm.org/doi/10.1145/2800835.2800888,2015,UbiComp,HMD,Input Device,Health and Fitness
 Real-time physical activity and mental stress management with a wristband and a smartphone. https://dl.acm.org/doi/10.1145/3123024.3123184,2017,UbiComp,Smartphone,Data Collector,Health and Fitness
 EPARS: elderly physical activity reminder system using smartphone and wearable sensors. https://dl.acm.org/doi/abs/10.1145/3341162.3350845,2019,UbiComp,Smartphone,Data Collector,Health and Fitness
-3D interaction with networked public displays using mobile and wearable devices. https://dl.acm.org/doi/abs/10.1145/2800835.2807957,2015,UbiComp,Large Display,Input Device,\
-GestEar: combining audio and motion sensing for gesture recognition on smartwatches. https://dl.acm.org/doi/10.1145/3341163.3347735,2019,UbiComp,Smartphone,Input Device,\
+3D interaction with networked public displays using mobile and wearable devices. https://dl.acm.org/doi/abs/10.1145/2800835.2807957,2015,UbiComp,Large Display,Input Device, No Application Context
+GestEar: combining audio and motion sensing for gesture recognition on smartwatches. https://dl.acm.org/doi/10.1145/3341163.3347735,2019,UbiComp,Smartphone,Input Device, No Application Context
 mLung++: automated characterization of abnormal lung sounds in pulmonary patients using multimodal mobile sensors. https://dl.acm.org/doi/10.1145/3341162.3344850,2019,UbiComp,PC,Data Collector,Health and Fitness
-Reducing distraction of smartwatch users with deep learning. https://dl.acm.org/doi/10.1145/2957265.2962662,2016,MobileHCI,Smartphone,Notification Device,\
-Optimizing Smartphone Micro-usage with Smartwatch Notifications. https://dl.acm.org/doi/10.1145/2786567.2794313,2015,MobileHCI,Smartphone,Notification Device,\
-Assessment of Notifications on Smartwatches. https://dl.acm.org/doi/abs/10.1145/2786567.2794338,2015,MobileHCI,Smartphone,Notification Device,\
+Reducing distraction of smartwatch users with deep learning. https://dl.acm.org/doi/10.1145/2957265.2962662,2016,MobileHCI,Smartphone,Notification Device, No Application Context
+Optimizing Smartphone Micro-usage with Smartwatch Notifications. https://dl.acm.org/doi/10.1145/2786567.2794313,2015,MobileHCI,Smartphone,Notification Device, No Application Context
+Assessment of Notifications on Smartwatches. https://dl.acm.org/doi/abs/10.1145/2786567.2794338,2015,MobileHCI,Smartphone,Notification Device, No Application Context
 Integrating Real-Time Health Status into Everyday Objects: A Design Case Study on Enhancing Diabetic Health Monitoring with Artistic Creations. https://dl.acm.org/doi/10.1145/3565066.3608696,2023,MobileHCI,Smart Socks,Notification Device,Health and Fitness
 Unpacking the Lived Experiences of Smartwatch Mediated Self and Co-Regulation with ADHD Children. https://dl.acm.org/doi/full/10.1145/3544548.3581316,2023,CHI,Smartphone,Input Device,Health and Fitness
-IMUPoser: Full-Body Pose Estimation using IMUs in Phones' Watches' and Earbuds. https://dl.acm.org/doi/10.1145/3544548.3581392,2023,CHI,Smartphone & Earbud,Data Collector,\
-WatchVR: Exploring the Usage of a Smartwatch for Interaction in Mobile Virtual Reality. https://dl.acm.org/doi/10.1145/3170427.3188629, 2018, CHI, HMD,Input Device, \
+IMUPoser: Full-Body Pose Estimation using IMUs in Phones' Watches' and Earbuds. https://dl.acm.org/doi/10.1145/3544548.3581392,2023,CHI,Smartphone & Earbud,Data Collector, No Application Context
+WatchVR: Exploring the Usage of a Smartwatch for Interaction in Mobile Virtual Reality. https://dl.acm.org/doi/10.1145/3170427.3188629, 2018, CHI, HMD,Input Device, No Application Context
